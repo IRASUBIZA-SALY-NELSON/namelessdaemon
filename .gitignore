@@ -1,8 +1,7 @@
 node_modules/
 dist/
-.env
-.env.local
 target/
 *.class
 *.jar
 .DS_Store
+config.bat
